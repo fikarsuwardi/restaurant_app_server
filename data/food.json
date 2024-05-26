@@ -1,0 +1,344 @@
+[
+    {
+        "name": "Ramen",
+        "description": "Legend has it that there are several ramen-crazed “gen X-ers” on the hunt for the best Ramen in Sydney, and they’re coming out in droves.",
+        "price": 100000,
+        "imgUrl": "https://www.gffoodservice.com.au/content/uploads/2021/03/article-image-asian_fusion-3-@1x.jpg",
+        "authorId": 1,
+        "categoryId": 1,
+        "status": "active"
+    },
+    {
+        "name": "Fish and chips",
+        "description": "Brits have been eating fish and chips since the 19th century. This beloved British street food is traditionally served wrapped in a piece of white paper or newspaper.",
+        "price": 200000,
+        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/fish-chips-1536x1024.jpg",
+        "authorId": 1,
+        "categoryId": 2,
+        "status": "active"
+    },
+    {
+        "name": "Shepherds pie",
+        "description": "The UK is famous for its heart-warming pies, but the most comforting of these is undoubtedly shepherd’s pie.",
+        "price": 240000,
+        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/shepherds-pie-1536x1024.jpg",
+        "authorId": 1,
+        "categoryId": 2,
+        "status": "active"
+    },
+    {
+        "name": "Peking Roasted Duck",
+        "description": "Peking duck (北京烤鸭 Běijīng kǎoyā) is a famous dish from Beijing, enjoying world fame, and considered as one of China national dishes.",
+        "price": 340000,
+        "imgUrl": "https://images.chinahighlights.com/allpicture/2021/12/d247e7d25b164b77841f6022_cut_750x400_39.webp",
+        "authorId": 1,
+        "categoryId": 3,
+        "status": "active"
+    },
+    {
+        "name": "Kung Pao Chicken",
+        "description": "Kung Pao Chicken (宫保鸡丁 gōngbào jīdīng) is a famous Sichuan-style specialty, popular with both Chinese and foreigners.",
+        "price": 310000,
+        "imgUrl": "https://images.chinahighlights.com/allpicture/2019/11/31acb7b302ec4b48b17443ed_cut_750x400_39.webp",
+        "authorId": 1,
+        "categoryId": 3,
+        "status": "active"
+    },
+    {
+        "name": "Chicken Makhani",
+        "description": "Butter chicken is mouth-watering, tender chicken, cooked in a spiced tomato sauce.",
+        "price": 220000,
+        "imgUrl": "https://www.blueosa.com/wp-content/uploads/2020/07/butter-chicken-Chicken-Makhani.jpg",
+        "authorId": 2,
+        "categoryId": 4,
+        "status": "active"
+    },
+    {
+        "name": "Samosas",
+        "description": "Spiced potatoes, onions, peas, and lentils fill traditional samosas. But sometimes, they are made with ground lamb, ground beef or ground chicken.",
+        "price": 150000,
+        "imgUrl": "https://www.blueosa.com/wp-content/uploads/2020/07/top-10-indian-dishes-samosas.jpg",
+        "authorId": 2,
+        "categoryId": 4,
+        "status": "active"
+    },
+    {
+        "name": "Risotto",
+        "description": "Risotto is a typical northern Italian dish that can be cooked in an infinite number of ways. .",
+        "price": 280000,
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Risotto-Alla-Milanese.jpg.webp",
+        "authorId": 2,
+        "categoryId": 5,
+        "status": "active"
+    },
+    {
+        "name": "Pizza",
+        "description": "Pizza. Inevitable if we speak about Italian food: pizza is a national symbol, a food that represents Italy in the world.",
+        "price": 420000,
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Pizza-Margherita.jpg.webp",
+        "authorId": 2,
+        "categoryId": 5,
+        "status": "active"
+    },
+    {
+        "name": "Ramen 2",
+        "description": "Legend has it that there are several ramen-crazed “gen X-ers” on the hunt for the best Ramen in Sydney, and they’re coming out in droves.",
+        "price": 100000,
+        "imgUrl": "https://www.gffoodservice.com.au/content/uploads/2021/03/article-image-asian_fusion-3-@1x.jpg",
+        "authorId": 1,
+        "categoryId": 1,
+        "status": "active"
+    },
+    {
+        "name": "Fish and chips 2",
+        "description": "Brits have been eating fish and chips since the 19th century. This beloved British street food is traditionally served wrapped in a piece of white paper or newspaper.",
+        "price": 200000,
+        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/fish-chips-1536x1024.jpg",
+        "authorId": 1,
+        "categoryId": 2,
+        "status": "active"
+    },
+    {
+        "name": "Shepherds pie 2",
+        "description": "The UK is famous for its heart-warming pies, but the most comforting of these is undoubtedly shepherd’s pie.",
+        "price": 240000,
+        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/shepherds-pie-1536x1024.jpg",
+        "authorId": 1,
+        "categoryId": 2,
+        "status": "active"
+    },
+    {
+        "name": "Peking Roasted Duck 2",
+        "description": "Peking duck (北京烤鸭 Běijīng kǎoyā) is a famous dish from Beijing, enjoying world fame, and considered as one of China national dishes.",
+        "price": 340000,
+        "imgUrl": "https://images.chinahighlights.com/allpicture/2021/12/d247e7d25b164b77841f6022_cut_750x400_39.webp",
+        "authorId": 1,
+        "categoryId": 3,
+        "status": "active"
+    },
+    {
+        "name": "Kung Pao Chicken 2",
+        "description": "Kung Pao Chicken (宫保鸡丁 gōngbào jīdīng) is a famous Sichuan-style specialty, popular with both Chinese and foreigners.",
+        "price": 310000,
+        "imgUrl": "https://images.chinahighlights.com/allpicture/2019/11/31acb7b302ec4b48b17443ed_cut_750x400_39.webp",
+        "authorId": 1,
+        "categoryId": 3,
+        "status": "active"
+    },
+    {
+        "name": "Chicken Makhani 2",
+        "description": "Butter chicken is mouth-watering, tender chicken, cooked in a spiced tomato sauce.",
+        "price": 220000,
+        "imgUrl": "https://www.blueosa.com/wp-content/uploads/2020/07/butter-chicken-Chicken-Makhani.jpg",
+        "authorId": 2,
+        "categoryId": 4,
+        "status": "active"
+    },
+    {
+        "name": "Samosas 2",
+        "description": "Spiced potatoes, onions, peas, and lentils fill traditional samosas. But sometimes, they are made with ground lamb, ground beef or ground chicken.",
+        "price": 150000,
+        "imgUrl": "https://www.blueosa.com/wp-content/uploads/2020/07/top-10-indian-dishes-samosas.jpg",
+        "authorId": 2,
+        "categoryId": 4,
+        "status": "active"
+    },
+    {
+        "name": "Risotto 2",
+        "description": "Risotto is a typical northern Italian dish that can be cooked in an infinite number of ways. .",
+        "price": 280000,
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Risotto-Alla-Milanese.jpg.webp",
+        "authorId": 2,
+        "categoryId": 5,
+        "status": "active"
+    },
+    {
+        "name": "Pizza 2",
+        "description": "Pizza. Inevitable if we speak about Italian food: pizza is a national symbol, a food that represents Italy in the world.",
+        "price": 420000,
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Pizza-Margherita.jpg.webp",
+        "authorId": 2,
+        "categoryId": 5,
+        "status": "active"
+    },
+    {
+        "name": "Ramen 3",
+        "description": "Legend has it that there are several ramen-crazed “gen X-ers” on the hunt for the best Ramen in Sydney, and they’re coming out in droves.",
+        "price": 100000,
+        "imgUrl": "https://www.gffoodservice.com.au/content/uploads/2021/03/article-image-asian_fusion-3-@1x.jpg",
+        "authorId": 1,
+        "categoryId": 1,
+        "status": "active"
+    },
+    {
+        "name": "Fish and chips 3",
+        "description": "Brits have been eating fish and chips since the 19th century. This beloved British street food is traditionally served wrapped in a piece of white paper or newspaper.",
+        "price": 200000,
+        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/fish-chips-1536x1024.jpg",
+        "authorId": 1,
+        "categoryId": 2,
+        "status": "active"
+    },
+    {
+        "name": "Shepherds pie 3",
+        "description": "The UK is famous for its heart-warming pies, but the most comforting of these is undoubtedly shepherd’s pie.",
+        "price": 240000,
+        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/shepherds-pie-1536x1024.jpg",
+        "authorId": 1,
+        "categoryId": 2,
+        "status": "active"
+    },
+    {
+        "name": "Peking Roasted Duck 3",
+        "description": "Peking duck (北京烤鸭 Běijīng kǎoyā) is a famous dish from Beijing, enjoying world fame, and considered as one of China national dishes.",
+        "price": 340000,
+        "imgUrl": "https://images.chinahighlights.com/allpicture/2021/12/d247e7d25b164b77841f6022_cut_750x400_39.webp",
+        "authorId": 1,
+        "categoryId": 3,
+        "status": "active"
+    },
+    {
+        "name": "Kung Pao Chicken 3",
+        "description": "Kung Pao Chicken (宫保鸡丁 gōngbào jīdīng) is a famous Sichuan-style specialty, popular with both Chinese and foreigners.",
+        "price": 310000,
+        "imgUrl": "https://images.chinahighlights.com/allpicture/2019/11/31acb7b302ec4b48b17443ed_cut_750x400_39.webp",
+        "authorId": 1,
+        "categoryId": 3,
+        "status": "active"
+    },
+    {
+        "name": "Chicken Makhani 3",
+        "description": "Butter chicken is mouth-watering, tender chicken, cooked in a spiced tomato sauce.",
+        "price": 220000,
+        "imgUrl": "https://www.blueosa.com/wp-content/uploads/2020/07/butter-chicken-Chicken-Makhani.jpg",
+        "authorId": 2,
+        "categoryId": 4,
+        "status": "active"
+    },
+    {
+        "name": "Samosas 3",
+        "description": "Spiced potatoes, onions, peas, and lentils fill traditional samosas. But sometimes, they are made with ground lamb, ground beef or ground chicken.",
+        "price": 150000,
+        "imgUrl": "https://www.blueosa.com/wp-content/uploads/2020/07/top-10-indian-dishes-samosas.jpg",
+        "authorId": 2,
+        "categoryId": 4,
+        "status": "active"
+    },
+    {
+        "name": "Risotto 3",
+        "description": "Risotto is a typical northern Italian dish that can be cooked in an infinite number of ways. .",
+        "price": 280000,
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Risotto-Alla-Milanese.jpg.webp",
+        "authorId": 2,
+        "categoryId": 5,
+        "status": "active"
+    },
+    {
+        "name": "Pizza 3",
+        "description": "Pizza. Inevitable if we speak about Italian food: pizza is a national symbol, a food that represents Italy in the world.",
+        "price": 420000,
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Pizza-Margherita.jpg.webp",
+        "authorId": 2,
+        "categoryId": 5,
+        "status": "active"
+    },
+    {
+        "name": "Ramen 4",
+        "description": "Legend has it that there are several ramen-crazed “gen X-ers” on the hunt for the best Ramen in Sydney, and they’re coming out in droves.",
+        "price": 100000,
+        "imgUrl": "https://www.gffoodservice.com.au/content/uploads/2021/03/article-image-asian_fusion-3-@1x.jpg",
+        "authorId": 1,
+        "categoryId": 1,
+        "status": "active"
+    },
+    {
+        "name": "Fish and chips 4",
+        "description": "Brits have been eating fish and chips since the 19th century. This beloved British street food is traditionally served wrapped in a piece of white paper or newspaper.",
+        "price": 200000,
+        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/fish-chips-1536x1024.jpg",
+        "authorId": 1,
+        "categoryId": 2,
+        "status": "active"
+    },
+    {
+        "name": "Shepherds pie 4",
+        "description": "The UK is famous for its heart-warming pies, but the most comforting of these is undoubtedly shepherd’s pie.",
+        "price": 240000,
+        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/shepherds-pie-1536x1024.jpg",
+        "authorId": 1,
+        "categoryId": 2,
+        "status": "active"
+    },
+    {
+        "name": "Peking Roasted Duck 4",
+        "description": "Peking duck (北京烤鸭 Běijīng kǎoyā) is a famous dish from Beijing, enjoying world fame, and considered as one of China national dishes.",
+        "price": 340000,
+        "imgUrl": "https://images.chinahighlights.com/allpicture/2021/12/d247e7d25b164b77841f6022_cut_750x400_39.webp",
+        "authorId": 1,
+        "categoryId": 3,
+        "status": "active"
+    },
+    {
+        "name": "Kung Pao Chicken 4",
+        "description": "Kung Pao Chicken (宫保鸡丁 gōngbào jīdīng) is a famous Sichuan-style specialty, popular with both Chinese and foreigners.",
+        "price": 310000,
+        "imgUrl": "https://images.chinahighlights.com/allpicture/2019/11/31acb7b302ec4b48b17443ed_cut_750x400_39.webp",
+        "authorId": 1,
+        "categoryId": 3,
+        "status": "active"
+    },
+    {
+        "name": "Chicken Makhani 4",
+        "description": "Butter chicken is mouth-watering, tender chicken, cooked in a spiced tomato sauce.",
+        "price": 220000,
+        "imgUrl": "https://www.blueosa.com/wp-content/uploads/2020/07/butter-chicken-Chicken-Makhani.jpg",
+        "authorId": 2,
+        "categoryId": 4,
+        "status": "active"
+    },
+    {
+        "name": "Samosas 4",
+        "description": "Spiced potatoes, onions, peas, and lentils fill traditional samosas. But sometimes, they are made with ground lamb, ground beef or ground chicken.",
+        "price": 150000,
+        "imgUrl": "https://www.blueosa.com/wp-content/uploads/2020/07/top-10-indian-dishes-samosas.jpg",
+        "authorId": 2,
+        "categoryId": 4,
+        "status": "active"
+    },
+    {
+        "name": "Risotto 4",
+        "description": "Risotto is a typical northern Italian dish that can be cooked in an infinite number of ways. .",
+        "price": 280000,
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Risotto-Alla-Milanese.jpg.webp",
+        "authorId": 2,
+        "categoryId": 5,
+        "status": "active"
+    },
+    {
+        "name": "Pizza 4",
+        "description": "Pizza. Inevitable if we speak about Italian food: pizza is a national symbol, a food that represents Italy in the world.",
+        "price": 420000,
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Pizza-Margherita.jpg.webp",
+        "authorId": 2,
+        "categoryId": 5,
+        "status": "active"
+    },
+    {
+        "name": "Risotto 5",
+        "description": "Risotto is a typical northern Italian dish that can be cooked in an infinite number of ways. .",
+        "price": 280000,
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Risotto-Alla-Milanese.jpg.webp",
+        "authorId": 2,
+        "categoryId": 5,
+        "status": "active"
+    },
+    {
+        "name": "Pizza 5",
+        "description": "Pizza. Inevitable if we speak about Italian food: pizza is a national symbol, a food that represents Italy in the world.",
+        "price": 420000,
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Pizza-Margherita.jpg.webp",
+        "authorId": 2,
+        "categoryId": 5,
+        "status": "active"
+    }
+]   

@@ -1,0 +1,18 @@
+[
+    {
+        "username": "admin123",
+        "email": "admin@email.com",
+        "password": "qwerty",
+        "role": "admin",
+        "phoneNumber": "+62111222333444",
+        "address": "0212 Cambridge Way"
+    },
+    {
+        "username": "staff123",
+        "email": "staff@email.com",
+        "password": "qwerty",
+        "role": "staff",
+        "phoneNumber": "+62333222111444",
+        "address": "9279 Arizona Lane"
+    }
+]
