@@ -12,7 +12,7 @@
         "name": "Fish and chips",
         "description": "Brits have been eating fish and chips since the 19th century. This beloved British street food is traditionally served wrapped in a piece of white paper or newspaper.",
         "price": 200000,
-        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/fish-chips-1536x1024.jpg",
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Fish-and-chips-1.jpg.webp",
         "authorId": 1,
         "categoryId": 2,
         "status": "active"
@@ -21,7 +21,7 @@
         "name": "Shepherds pie",
         "description": "The UK is famous for its heart-warming pies, but the most comforting of these is undoubtedly shepherd’s pie.",
         "price": 240000,
-        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/shepherds-pie-1536x1024.jpg",
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Sheperds-Pie.jpg.webp",
         "authorId": 1,
         "categoryId": 2,
         "status": "active"
@@ -93,7 +93,7 @@
         "name": "Fish and chips 2",
         "description": "Brits have been eating fish and chips since the 19th century. This beloved British street food is traditionally served wrapped in a piece of white paper or newspaper.",
         "price": 200000,
-        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/fish-chips-1536x1024.jpg",
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Fish-and-chips-1.jpg.webp",
         "authorId": 1,
         "categoryId": 2,
         "status": "active"
@@ -102,7 +102,7 @@
         "name": "Shepherds pie 2",
         "description": "The UK is famous for its heart-warming pies, but the most comforting of these is undoubtedly shepherd’s pie.",
         "price": 240000,
-        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/shepherds-pie-1536x1024.jpg",
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Sheperds-Pie.jpg.webp",
         "authorId": 1,
         "categoryId": 2,
         "status": "active"
@@ -174,7 +174,7 @@
         "name": "Fish and chips 3",
         "description": "Brits have been eating fish and chips since the 19th century. This beloved British street food is traditionally served wrapped in a piece of white paper or newspaper.",
         "price": 200000,
-        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/fish-chips-1536x1024.jpg",
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Fish-and-chips-1.jpg.webp",
         "authorId": 1,
         "categoryId": 2,
         "status": "active"
@@ -183,7 +183,7 @@
         "name": "Shepherds pie 3",
         "description": "The UK is famous for its heart-warming pies, but the most comforting of these is undoubtedly shepherd’s pie.",
         "price": 240000,
-        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/shepherds-pie-1536x1024.jpg",
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Sheperds-Pie.jpg.webp",
         "authorId": 1,
         "categoryId": 2,
         "status": "active"
@@ -255,7 +255,7 @@
         "name": "Fish and chips 4",
         "description": "Brits have been eating fish and chips since the 19th century. This beloved British street food is traditionally served wrapped in a piece of white paper or newspaper.",
         "price": 200000,
-        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/fish-chips-1536x1024.jpg",
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Fish-and-chips-1.jpg.webp",
         "authorId": 1,
         "categoryId": 2,
         "status": "active"
@@ -264,7 +264,7 @@
         "name": "Shepherds pie 4",
         "description": "The UK is famous for its heart-warming pies, but the most comforting of these is undoubtedly shepherd’s pie.",
         "price": 240000,
-        "imgUrl": "https://www.expatica.com/app/uploads/sites/10/2014/05/shepherds-pie-1536x1024.jpg",
+        "imgUrl": "https://www.chefspencil.com/wp-content/uploads/Sheperds-Pie.jpg.webp",
         "authorId": 1,
         "categoryId": 2,
         "status": "active"

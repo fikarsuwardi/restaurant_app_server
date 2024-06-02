@@ -38,7 +38,7 @@ class Controller {
         try {
             const food = await Food.findAll({
                 include: [User, Category],
-                order: [['id','DESC']]
+                order: [['createdAt','DESC']]
             });
             res.status(200).json({
                 statusCode: 200,

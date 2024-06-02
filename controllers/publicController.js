@@ -229,7 +229,8 @@ class Controller {
         "19659enue0wh0vNd6zF7okREt9YO7wb6OXNnIvheKifUUHd2Te42Vwg5";
 
       const response = await axios.get(
-        `https://api.happi.dev/v1/qrcode?data=${urlDetail}&apikey=${myApiKey}`
+        // `https://api.happi.dev/v1/qrcode?data=${urlDetail}&apikey=${myApiKey}`
+        `https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=${urlDetail}`
       );
       res.status(200).json({
         code: response.data.qrcode,   
