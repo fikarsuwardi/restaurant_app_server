@@ -24,6 +24,8 @@ app.use(express.urlencoded({ extended: false }))
 //json
 app.use(express.json())
 
+app.get('/favicon.ico', (req, res) => res.status(204));
+
 //menggunakan routes dari routes/index.js
 app.use(routes)
 
