@@ -3,6 +3,7 @@
 if(process.env.NODE_ENV !== 'production') {
     require("dotenv").config()
 }
+
 // require('dotenv').config()
 const cors = require("cors")
 const errorHandler = require('./middlewares/errorHandler')
@@ -31,8 +32,8 @@ app.use(errorHandler)
 
 // // pindah ke bin/www
 // KALAU MAU TESTING INI DICOMEN
-app.listen(port, () => {
-    console.log(`Example app listening on port ${port}`)
-})
+// app.listen(port, () => {
+//     console.log(`Example app listening on port ${port}`)
+// })
 
 module.exports = app
