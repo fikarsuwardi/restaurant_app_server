@@ -18,6 +18,7 @@
     "password": "null",
     "database": "postgresql",
     "host": "127.0.0.1",
-    "dialect": "postgres"
+    "dialect": "postgres",
+    "dialectModule": "pg"
   }
 }
