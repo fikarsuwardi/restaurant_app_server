@@ -14,10 +14,10 @@
     "dialect": "postgres"
   },
   "production": {
-    "use_env_variable": "DATABASE_URL",
+    "use_env_variable": "process.env.POSTGRES_URL",
     "ssl": true,
     "dialect": "postgres",
-    "protocol": "postgres",
+    "protocol": "postgres", 
     "dialectOptions": {
       "ssl": {
         "require": true,

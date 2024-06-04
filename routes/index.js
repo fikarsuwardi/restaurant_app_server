@@ -9,7 +9,6 @@ const categoryRoutes = require('./category')
 const foodRoutes = require('./food')
 const historyRoutes = require('./history')
 
-
 const authentication = require("../middlewares/authn")
 
 routes.use('/user', userRoutes)
