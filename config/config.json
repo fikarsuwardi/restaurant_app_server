@@ -18,7 +18,6 @@
     "ssl": true,
     "dialect": "postgres",
     "protocol": "postgres",
-    "dialectModule": "pg",
     "pool": {
       "max": 2,
       "min": 0,
