@@ -14,11 +14,21 @@
     "dialect": "postgres"
   },
   "production": {
-    "username": "root",
-    "password": "null",
-    "database": "postgresql",
-    "host": "127.0.0.1",
+    "use_env_variable": "DATABASE_URL",
+    "ssl": true,
     "dialect": "postgres",
-    "dialectModule": "pg"
+    "protocol": "postgres",
+    "pool": {
+      "max": 2,
+      "min": 0,
+      "idle": 0,
+      "acquire": 3000
+    },
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
   }
 }
