@@ -17,6 +17,7 @@
     "use_env_variable": "DATABASE_URL",
     "ssl": true,
     "dialect": "postgres",
+    "dialectModule": "pg",
     "protocol": "postgres",
     "pool": {
       "max": 2,
